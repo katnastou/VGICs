@@ -1,0 +1,1 @@
+vgics.aov <- aov(polymorphisms$Value ~ polymorphisms$Pathogenicity + polymorphisms$`Condition:TM-NOTM` + polymorphisms$Pathogenicity: polymorphisms$`Condition:TM-NOTM`)
