@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564765135123.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "795275290",
+    "id" : "5E463064",
+    "lastKnownWriteTime" : 1564765186,
+    "last_content_update" : 1564765186784,
+    "path" : "C:/Users/katna/Desktop/VGICs_SNPs/statistical_analysis/normalization/anova_test.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "22,36",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

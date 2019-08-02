@@ -1,0 +1,10 @@
+"structure.1.9...Label...c..charged.charged....charged.non.polar..."	"c.36L..21L..96L..37L..130L..76L..25L..37L..57L."
+"1"	"charged charged"	36
+"2"	"charged non-polar"	21
+"3"	"charged polar"	96
+"4"	"non-polar charged"	37
+"5"	"non-polar non-polar"	130
+"6"	"non-polar polar"	76
+"7"	"polar charged"	25
+"8"	"polar non-polar"	37
+"9"	"polar polar"	57

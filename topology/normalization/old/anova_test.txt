@@ -1,0 +1,14 @@
+Call: vgics.aov <- aov(supplementary_tables$Value ~ supplementary_tables$Pathogenicity + supplementary_tables$`Condition:TM` + supplementary_tables$Pathogenicity: supplementary_tables$`Condition:TM`)
+
+ Df  Sum Sq Mean Sq
+supplementary_tables$Pathogenicity                                       1   79853   79853
+supplementary_tables$`Condition:TM`                                      1       1       1
+supplementary_tables$Pathogenicity:supplementary_tables$`Condition:TM`   1     210     210
+Residuals                                                              232 1368690    5900
+                                                                       F value   Pr(>F)    
+supplementary_tables$Pathogenicity                                      13.535 0.000291 ***
+supplementary_tables$`Condition:TM`                                      0.000 0.989295    
+supplementary_tables$Pathogenicity:supplementary_tables$`Condition:TM`   0.036 0.850369    
+Residuals                                                                                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 

@@ -1,0 +1,158 @@
+ND	Aaland island eye disease
+ND	Abnormality of brain morphology
+HMD	Acquired susceptibility to long QT syndrome 1
+HMD	Atrial fibrillation
+HMD	Atrial fibrillation, familial, 10
+HMD	Atrial fibrillation, familial, 3
+HMD	Atrial fibrillation, familial, 7
+HMD	Atrial standstill 1
+HMD	Atrial standstill 1, digenic
+ND	atypical cerebral palsy
+ND	Benign familial neonatal seizures 1
+ND	Benign familial neonatal seizures 2
+ND	Benign familial neonatal-infantile seizures
+HMD	Brugada syndrome
+HMD	Brugada syndrome 1
+HMD	Brugada syndrome 3
+-	CACNA1A-related condition
+-	CACNA1C-related condition
+-	CACNA1G-related disorders
+HMD	Cardiac conduction defect, nonprogressive
+HMD	Cardiac conduction defect, nonspecific
+HMD	Cardiomyopathy, dilated 1E
+HMD	Cardiovascular phenotype
+ND	Cerebellar ataxia
+SMD	Choreoathetosis
+ND	Cone dystrophy retinal 3B
+ND	Cone-rod dystrophy X-linked 3
+HMD	Congenital long QT syndrome
+SMD	Congenital myasthenic syndrome
+ND	Congenital stationary night blindness
+ND	Congenital stationary night blindness, type 2A
+ND	Delayed speech and language development
+ND	Developmental delay
+ND	Developmental regression
+ND	Developmental stagnation at onset of seizures
+ND	Difficulty walking
+HMD	Dilated cardiomyopathy 1E
+ND	Dysarthria
+SMD	Dystonia 23
+ND	Early infantile epileptic encephalopathy
+ND	Early infantile epileptic encephalopathy 11
+ND	Early infantile epileptic encephalopathy 13
+ND	Early infantile epileptic encephalopathy 62
+ND	Early infantile epileptic encephalopathy 7
+ND	Epilepsy, childhood absence 6
+ND	Epilepsy, familial focal, with variable foci 4
+ND	Epilepsy, idiopathic generalized 6
+ND	Epilepsy, progressive myoclonic 7
+ND	Epileptic encephalopathy
+ND	Epileptic encephalopathy Lennox-Gastaut type
+ND	Epileptic encephalopathy, early infantile, 26
+ND	Epileptic encephalopathy, early infantile, 32
+ND	Epileptic encephalopathy, early infantile, 42
+ND	Epileptic encephalopathy, early infantile, 6
+ND	Episodic ataxia type 1
+ND	Episodic ataxia type 2
+ND	Episodic pain syndrome, familial, 2
+ND	Episodic pain syndrome, familial, 3
+ND	Familial hemiplegic migraine type 1
+ND	Familial hemiplegic migraine type 3
+ND	Familial hyperkalemic periodic paralysis
+HMD	Familial paroxysmal ventricular fibrillation 1
+ND	Febrile seizures
+ND	Febrile seizures, familial, 3A
+ND	Febrile seizures, familial, 3b
+ND	Focal epilepsy
+ND	Gait ataxia
+ND	Generalized epilepsy
+ND	Generalized epilepsy with febrile seizures plus, type 1
+ND	Generalized epilepsy with febrile seizures plus, type 2
+ND	Generalized epilepsy with febrile seizures plus, type 7
+SMD	Generalized hypotonia
+ND	Generalized tonic seizures
+ND	Global developmental delay
+ND	Hereditary sensory and autonomic neuropathy type IIA
+HD	Hyperaldosteronism, familial, 4
+-	Inborn genetic diseases
+ND	Indifference to pain, congenital, autosomal, recessive
+ND	Intellectual disability
+ND	Intellectual disability, severe
+ND	Intention tremor
+ND	Jervell and Lange-Nielsen syndrome 1
+-	KCNQ2-Related Disorders
+ND	Leukoencephalopathy
+HMD	Long QT syndrome
+HMD	Long QT syndrome 1
+HMD	Long QT syndrome 1/2, digenic
+HMD	Long QT syndrome 2
+HMD	Long QT syndrome 2, acquired, susceptibility to
+HMD	Long QT syndrome 2/5
+HMD	Long QT syndrome 3
+HMD	Long qt syndrome 3/6, digenic
+HMD	Long QT syndrome, bradycardia-induced
+SMD	Malignant hyperthermia 5
+SMD	Malignant hyperthermia susceptibility type 5
+ND	Malignant migrating partial seizures of infancy
+ND	Marfan syndrome
+ND	MENTAL RETARDATION, AUTOSOMAL DOMINANT 46
+ND	Migraine, sporadic hemiplegic
+ND	Migraine, sporadic hemiplegic, with progressive cerebellar ataxia
+ND	Mild global developmental delay
+SMD	Muscular Diseases
+SMD	Myokymia 1
+SMD	Myotonia congenita, atypical, acetazolamide-responsive
+ND	Neuropathy, hereditary sensory and autonomic, type VII
+ND	Non-syndromic genetic deafness
+ND	Nonsyndromic hearing loss and deafness
+SMD	Paramyotonia congenita of von Eulenburg
+SMD	Paramyotonia congenita/hyperkalemic periodic paralysis
+SMD	Paramyotonia congenita/myotonia congenita
+SMD	Paroxymal extreme pain disorder
+SMD	Paroxysmal extreme pain disorder
+HMD	Paroxysmal familial ventricular fibrillation 1
+ND	Periodic paralysis hyperkalemic
+ND	Periodic paralysis hypokalemic 1
+ND	Periodic paralysis hypokalemic 2
+ND	Polymicrogyria
+SMD	Potassium aggravated myotonia
+ND	Primary aldosteronism, seizures, and neurologic abnormalities
+HMD	Primary dilated cardiomyopathy
+HMD	Primary erythromelalgia
+HD	Primary hyperaldosteronism
+HMD	Progressive familial heart block 1A
+ND	Retinal cone dystrophy 3B
+ND	Retinal dystrophy
+SMD	Rhabdomyolysis
+ND	Rolandic epilepsy
+HMD	Romano-Ward syndrome
+-	SCN2A-related condition
+-	SCN4A-related disorder
+ND	Seizures
+ND	Seizures benign familial infantile, 3
+ND	Seizures benign familial neonatal 1
+ND	Seizures, benign familial infantile, 3
+ND	Seizures, benign familial infantile, 5
+ND	Seizures, benign familial neonatal 1
+ND	Seizures, benign familial neonatal 2
+ND	Seizures, benign familial neonatal, 1, and/or myokymia
+ND	Severe intellectual deficiency
+ND	Severe myoclonic epilepsy in infancy
+HMD	short QT syndrome
+HMD	Short QT syndrome 1
+HMD	Short QT syndrome 2
+HMD	Sick sinus syndrome
+HMD	Sick sinus syndrome 1
+HMD	Sick sinus syndrome 1, autosomal recessive
+ND	Sinoatrial node dysfunction and deafness
+ND	Sinus node disease
+ND	Spastic paraparesis
+ND	Spinocerebellar ataxia 13
+ND	Spinocerebellar ataxia 19
+ND	Spinocerebellar ataxia 42
+ND	Spinocerebellar ataxia 6
+ND	Strabismus
+-	Sudden infant death syndrome
+ND	Temple-Baraitser syndrome
+HMD	Timothy syndrome
+ND	Zimmermann-Laband syndrome 1

@@ -1,0 +1,166 @@
+#KoinesAs8eneiesTwn3Oikogeneiwn#
+Brugada syndrome
+Congenital long QT syndrome
+Epileptic encephalopathy
+Inborn genetic diseases
+Long QT syndrome
+
+#KoinesAs8eneiesKVs-CAVs#
+Brugada syndrome
+Congenital long QT syndrome
+Epileptic encephalopathy
+Generalized hypotonia
+Inborn genetic diseases
+Long QT syndrome
+Retinal dystrophy
+
+#KoinesAs8eneiesKVs-NAVs#
+Atrial fibrillation
+Brugada syndrome
+Cardiovascular phenotype
+Congenital long QT syndrome
+Early infantile epileptic encephalopathy
+Epileptic encephalopathy
+Inborn genetic diseases
+Long QT syndrome
+Long QT syndrome 1
+Rolandic epilepsy
+Seizures
+
+#KoinesAs8eneiesNAVs-CAVs#
+Brugada syndrome
+Congenital long QT syndrome
+Epileptic encephalopathy
+Global developmental delay
+Inborn genetic diseases
+Long QT syndrome
+Periodic paralysis hypokalemic 1
+Rhabdomyolysis
+
+#UniqueKvDiseases#
+Acquired susceptibility to long QT syndrome 1
+Atrial fibrillation, familial, 3
+Atrial fibrillation, familial, 7
+Benign familial neonatal seizures 1
+Benign familial neonatal seizures 2
+Cone dystrophy retinal 3B
+Delayed speech and language development
+Difficulty walking
+Early infantile epileptic encephalopathy 7
+Epilepsy, progressive myoclonic 7
+Epileptic encephalopathy, early infantile, 26
+Epileptic encephalopathy, early infantile, 32
+Episodic ataxia type 1
+Intellectual disability
+Jervell and Lange-Nielsen syndrome 1
+KCNQ2-Related Disorders
+Long QT syndrome 1
+Long QT syndrome 1/2, digenic
+Long QT syndrome 2
+Long QT syndrome 2, acquired, susceptibility to
+Long QT syndrome 2/5
+Long QT syndrome, bradycardia-induced
+Marfan syndrome
+MENTAL RETARDATION, AUTOSOMAL DOMINANT 46
+Myokymia 1
+Non-syndromic genetic deafness
+Nonsyndromic hearing loss and deafness
+Retinal cone dystrophy 3B
+Rolandic epilepsy
+Romano-Ward syndrome
+Seizures
+Seizures benign familial neonatal 1
+Seizures, benign familial neonatal 1
+Seizures, benign familial neonatal 2
+Seizures, benign familial neonatal, 1, and/or myokymia
+Severe intellectual deficiency
+short QT syndrome
+Short QT syndrome 1
+Short QT syndrome 2
+Spinocerebellar ataxia 13
+Spinocerebellar ataxia 19
+Temple-Baraitser syndrome
+Zimmermann-Laband syndrome 1
+
+#UniqueCavDiseases#
+Aaland island eye disease
+Abnormality of brain morphology
+Brugada syndrome 3
+CACNA1A-related condition
+CACNA1C-related condition
+CACNA1G-related disorders
+Cerebellar ataxia
+Cone-rod dystrophy X-linked 3
+Congenital stationary night blindness
+Congenital stationary night blindness, type 2A
+Dysarthria
+Dystonia 23
+Epilepsy, childhood absence 6
+Epilepsy, idiopathic generalized 6
+Epileptic encephalopathy, early infantile, 42
+Episodic ataxia type 2
+Familial hemiplegic migraine type 1
+Gait ataxia
+Hyperaldosteronism, familial, 4
+Intention tremor
+Malignant hyperthermia 5
+Malignant hyperthermia susceptibility type 5
+Migraine, sporadic hemiplegic
+Migraine, sporadic hemiplegic, with progressive cerebellar ataxia
+Mild global developmental delay
+Paroxysmal familial ventricular fibrillation 1
+Periodic paralysis hypokalemic 1
+Primary aldosteronism, seizures, and neurologic abnormalities
+Primary hyperaldosteronism
+Rhabdomyolysis
+Sinoatrial node dysfunction and deafness
+Spastic paraparesis
+Spinocerebellar ataxia 42
+Spinocerebellar ataxia 6
+Strabismus
+Timothy syndrome
+
+#UniqueNavDiseases#
+Atrial fibrillation, familial, 10
+Atrial standstill 1
+Atrial standstill 1, digenic
+atypical cerebral palsy
+Benign familial neonatal-infantile seizures
+Brugada syndrome 1
+Cardiac conduction defect, nonprogressive
+Cardiac conduction defect, nonspecific
+Cardiomyopathy, dilated 1E
+Choreoathetosis
+Congenital myasthenic syndrome
+Developmental delay
+Developmental regression
+Developmental stagnation at onset of seizures
+Dilated cardiomyopathy 1E
+Early infantile epileptic encephalopathy 11
+Early infantile epileptic encephalopathy 13
+Early infantile epileptic encephalopathy 62
+Epilepsy, familial focal, with variable foci 4
+Epileptic encephalopathy Lennox-Gastaut type
+Epileptic encephalopathy, early infantile, 6
+Episodic pain syndrome, familial, 2
+Episodic pain syndrome, familial, 3
+Familial hemiplegic migraine type 3
+Familial hyperkalemic periodic paralysis
+Familial paroxysmal ventricular fibrillation 1
+Febrile seizures
+Febrile seizures, familial, 3A
+Febrile seizures, familial, 3b
+Focal epilepsy
+Generalized epilepsy
+Generalized epilepsy with febrile seizures plus, type 1
+Generalized epilepsy with febrile seizures plus, type 2
+Generalized epilepsy with febrile seizures plus, type 7
+Generalized tonic seizures
+Hereditary sensory and autonomic neuropathy type IIA
+Indifference to pain, congenital, autosomal, recessive
+Intellectual disability, severe
+Leukoencephalopathy
+Long QT syndrome 3
+Long qt syndrome 3/6, digenic
+Malignant migrating partial seizures of infancy
+Muscular Diseases

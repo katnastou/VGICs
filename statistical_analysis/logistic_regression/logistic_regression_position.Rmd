@@ -1,0 +1,34 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+glm(formula = sypplementary_tables$Pathogenicity ~ sypplementary_tables$VSD + 
+    sypplementary_tables$PoreLoop + sypplementary_tables$ELs + 
+    sypplementary_tables$ILs + sypplementary_tables$other, family = binomial(link = "logit"))
+
+```
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-1.64783  -0.99396  -0.01981   1.18189   2.34460  
+
+Coefficients:
+                              Estimate Std. Error z value Pr(>|z|)   
+(Intercept)                   -0.01055    0.24264  -0.043  0.96531   
+sypplementary_tables$VSD       0.93871    0.31478   2.982  0.00286 **
+sypplementary_tables$PoreLoop  0.40049    0.18802   2.130  0.03317 * 
+sypplementary_tables$ELs      -0.50330    0.29267  -1.720  0.08549 . 
+sypplementary_tables$ILs      -0.24019    0.08980  -2.675  0.00748 **
+sypplementary_tables$other    -0.22544    0.09024  -2.498  0.01248 * 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 163.58  on 117  degrees of freedom
+Residual deviance: 123.75  on 112  degrees of freedom
+AIC: 135.75
+
+Number of Fisher Scoring iterations: 9
